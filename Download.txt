@@ -1,0 +1,2 @@
+glove.6B.50d file will be required and can be downloaded from kaggle
+Flickr dataset also required to be downloaded
